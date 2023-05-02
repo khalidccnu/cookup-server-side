@@ -6,7 +6,7 @@
     "year_of_experience": 3,
     "number_of_recipe": 3,
     "like": 230,
-    "photo": ""
+    "photo": "https://github.com/khalidccnu/cookup-server-side/raw/main/asset/img/chefs/romana-ali.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "year_of_experience": 4,
     "number_of_recipe": 3,
     "like": 270,
-    "photo": ""
+    "photo": "https://github.com/khalidccnu/cookup-server-side/raw/main/asset/img/chefs/ahmed-hossain.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "year_of_experience": 4,
     "number_of_recipe": 4,
     "like": 300,
-    "photo": ""
+    "photo": "https://github.com/khalidccnu/cookup-server-side/raw/main/asset/img/chefs/tabassum-hussain-tina.png"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "year_of_experience": 2,
     "number_of_recipe": 3,
     "like": 230,
-    "photo": ""
+    "photo": "https://github.com/khalidccnu/cookup-server-side/raw/main/asset/img/chefs/fakruddin.png"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "year_of_experience": 1,
     "number_of_recipe": 3,
     "like": 190,
-    "photo": ""
+    "photo": "https://github.com/khalidccnu/cookup-server-side/raw/main/asset/img/chefs/milia-zaman.png"
   },
   {
     "id": 6,
@@ -51,6 +51,6 @@
     "year_of_experience": 3,
     "number_of_recipe": 3,
     "like": 210,
-    "photo": ""
+    "photo": "https://github.com/khalidccnu/cookup-server-side/raw/main/asset/img/chefs/asad-latif.png"
   }
 ]
