@@ -1,0 +1,431 @@
+[
+  {
+    "id": 1,
+    "name": "OATS CHICKEN HALIM",
+    "ingredient": [
+      "Orkide Sunflower Oil",
+      "Deshi Peyaj (Local Onion)",
+      "Fresh Haleem Mix",
+      "Aarong Natural Moshur Dal",
+      "Quaker Oats Jar",
+      "Coriander Leaves (Dhonia Pata)"
+    ],
+    "cooking_method": [
+      "Put 2 tablespoon of Sunflower oil on a fry pan and hit it.",
+      "Put ½ cup onion in the hot oil.",
+      "When the onion turns a bit brown, mix Cloves, Bay leaves, Cardamom and Cinnamon.",
+      "Now add Chili Powder 1 teaSpoon, Turmeric powder ½ teaSpoon, Garlic Paste 1 teaSpoon and Ginger Paste 1 teaSpoon. Pour some water.",
+      "Now add chicken, Garam Masala Powder 1 teaSpoon, Coriander Powder 1 teaSpoon, Cumin powder ½ teaSpoon and ½ cup of water. Cover the fry pan for 10-15 minutes.",
+      "Now add Halim Mix Masala 1 teaSpoon, A mixture of 3 kinds of Dal ½ Cup, 1 cup of water and salt. Cover the fry pan again for a couple of minutes.",
+      "Add Oats ½ cup, green Chili 4-5 pcs, Coriander Leaves.",
+      "The Halim is ready now. You can serve it by adding friend onion and ginger if you like."
+    ],
+    "rating": 4,
+    "chef_id": 1
+  },
+  {
+    "id": 2,
+    "name": "TEHRI IN MUSTARD OIL",
+    "ingredient": [
+      "Bengal Meat Beef Bone",
+      "Aarong Dairy Low Fat Yogurt",
+      "Deshi Ada (Local Ginger)",
+      "Rupchanda Fortified Soyabean Oil",
+      "Fortune Biryani Special Basmati Rice",
+      "Radhuni Pure Mustard Oil"
+    ],
+    "cooking_method": [
+      "First, marinate all the ingredients with the meat and keep it for three to four hours.",
+      "Then wash the rice and soak it in water for half an hour.",
+      "Now heat the mustard and soybean oil together and fry the onion brown add the merinated meat mixture and cover it by adding some water.",
+      "Once the meat is cooked, sprinkle chopped raw peppers and powdered milk and cook for a little and take it down.",
+      "Now boil water in another pan with 7 cups of water and hot spices.",
+      "Cover the boiling water with rice, lemon juice, powdered milk, sugar and salt.When the rice is boiled, add chopped raw chilli and sauté for 20 minutes.",
+      "Then pour the cooked meat in boiled rice and mix it well.",
+      "keep it for 15 minutes in low heat and its ready to serve."
+    ],
+    "rating": 4.5,
+    "chef_id": 1
+  },
+  {
+    "id": 3,
+    "name": "LABRA",
+    "ingredient": [
+      "Potato Regular",
+      "Korola (Bitter Gourd)",
+      "Potol (Pointed Gourd)",
+      "Sobuj Gol Begun (Round Brinjals Green)",
+      "Kacha Pepe (Green Papaya)",
+      "Misti Kumra Fali (Sweet Pumpkin Slice)",
+      "Badhakopi (Cabbage)"
+    ],
+    "cooking_method": [
+      "First of all wash the vegetables cut and boil them lightly.",
+      "Now give all the spices to the vegetables.",
+      "Heat the oil in a frying pan and fry the dried pepper and take down.",
+      "Now give the Bay Leaves and Mix Spice in oil and stir for one minute.",
+      "Now fry the onion brown and pour the oil in vegetable mix.",
+      "Cook it for 2-3 minutes and when the grave get thick take it down."
+    ],
+    "rating": 3.8,
+    "chef_id": 2
+  },
+  {
+    "id": 4,
+    "name": "MUTTON CURRY",
+    "ingredient": [
+      "Aarong Dairy Butter",
+      "Radhuni Garam Masala",
+      "Fresh Coriander (Dhonia) Powder",
+      "Roshun (Garlic Imported)",
+      "Kagozi Lebu (Kagozi Lemon)",
+      "Rupchanda Fortified Soyabean Oil"
+    ],
+    "cooking_method": [
+      "Firstly mix hot spices powder, coriander powder, chilli powder and ginger-garlic paste in a dish.",
+      "Now put a pressure cooker add butter and put it on the stove.",
+      "When the butter are melted, add onion, chilli, and meat then mix it well.",
+      "Now stir the mixture of spices in the flesh.",
+      "Cover the pressure cooker after adding salt, water and lemon juice in meat.",
+      "When the pressure cooker gets 5/6 whistles, take it down and serve hot."
+    ],
+    "rating": 5,
+    "chef_id": 1
+  },
+  {
+    "id": 5,
+    "name": "FISH CHACCHORI",
+    "ingredient": [
+      "Mola Fish Deshi",
+      "Lal Peyaj (Onion Red Imported)",
+      "Radhuni Chilli (Morich) Powder",
+      "Rupchanda Fortified Soyabean Oil",
+      "Coriander Leaves (Dhonia Pata)",
+      "ACI Pure Salt"
+    ],
+    "cooking_method": [
+      "First of all in a pan add green chilli and onion to the oil.",
+      "Mix all the spices with water in another bowl and pour it into the pan.",
+      "Now slowly add some more water and make a fried gravy.",
+      "When the spices are ready , pour the fish and mix them slightly again.d gravy.",
+      "When all the water becomes dry,pour the chopped coriander leaves and take down the pan.d gravy."
+    ],
+    "rating": 3.9,
+    "chef_id": 2
+  },
+  {
+    "id": 6,
+    "name": "HILSHA FISH ONION CURRY",
+    "ingredient": [
+      "Whole Hilsha Fish (Asto Ilish)",
+      "Lal Peyaj (Onion Red Imported)",
+      "Ada (Imported Ginger)",
+      "Roshun (Garlic Imported)",
+      "Red Tomato",
+      "Rupchanda Fortified Soyabean Oil"
+    ],
+    "cooking_method": [
+      "First, fry the fish after marinating with pinch of salt and turmeric.",
+      "Take another pan, put oil on it, add all spices and water then cook it.",
+      "Add pieces of tomato in spices and stir.",
+      "Add fried fishes in spices and stir softly.",
+      "Now add green chillies and pieces of tomato , give it a mix and cook in low flame.",
+      "When oil will start to separate , it is ready , serve it on a dish."
+    ],
+    "rating": 4,
+    "chef_id": 2
+  },
+  {
+    "id": 7,
+    "name": "OATS CHICKEN HALIM",
+    "ingredient": [
+      "Orkide Sunflower Oil",
+      "Deshi Peyaj (Local Onion)",
+      "Fresh Haleem Mix",
+      "Aarong Natural Moshur Dal",
+      "Quaker Oats Jar",
+      "Coriander Leaves (Dhonia Pata)"
+    ],
+    "cooking_method": [
+      "Put 2 tablespoon of Sunflower oil on a fry pan and hit it.",
+      "Put ½ cup onion in the hot oil.",
+      "When the onion turns a bit brown, mix Cloves, Bay leaves, Cardamom and Cinnamon.",
+      "Now add Chili Powder 1 teaSpoon, Turmeric powder ½ teaSpoon, Garlic Paste 1 teaSpoon and Ginger Paste 1 teaSpoon. Pour some water.",
+      "Now add chicken, Garam Masala Powder 1 teaSpoon, Coriander Powder 1 teaSpoon, Cumin powder ½ teaSpoon and ½ cup of water. Cover the fry pan for 10-15 minutes.",
+      "Now add Halim Mix Masala 1 teaSpoon, A mixture of 3 kinds of Dal ½ Cup, 1 cup of water and salt. Cover the fry pan again for a couple of minutes.",
+      "Add Oats ½ cup, green Chili 4-5 pcs, Coriander Leaves.",
+      "The Halim is ready now. You can serve it by adding friend onion and ginger if you like."
+    ],
+    "rating": 4,
+    "chef_id": 4
+  },
+  {
+    "id": 8,
+    "name": "TEHRI IN MUSTARD OIL",
+    "ingredient": [
+      "Bengal Meat Beef Bone",
+      "Aarong Dairy Low Fat Yogurt",
+      "Deshi Ada (Local Ginger)",
+      "Rupchanda Fortified Soyabean Oil",
+      "Fortune Biryani Special Basmati Rice",
+      "Radhuni Pure Mustard Oil"
+    ],
+    "cooking_method": [
+      "First, marinate all the ingredients with the meat and keep it for three to four hours.",
+      "Then wash the rice and soak it in water for half an hour.",
+      "Now heat the mustard and soybean oil together and fry the onion brown add the merinated meat mixture and cover it by adding some water.",
+      "Once the meat is cooked, sprinkle chopped raw peppers and powdered milk and cook for a little and take it down.",
+      "Now boil water in another pan with 7 cups of water and hot spices.",
+      "Cover the boiling water with rice, lemon juice, powdered milk, sugar and salt.When the rice is boiled, add chopped raw chilli and sauté for 20 minutes.",
+      "Then pour the cooked meat in boiled rice and mix it well.",
+      "keep it for 15 minutes in low heat and its ready to serve."
+    ],
+    "rating": 4.5,
+    "chef_id": 4
+  },
+  {
+    "id": 9,
+    "name": "LABRA",
+    "ingredient": [
+      "Potato Regular",
+      "Korola (Bitter Gourd)",
+      "Potol (Pointed Gourd)",
+      "Sobuj Gol Begun (Round Brinjals Green)",
+      "Kacha Pepe (Green Papaya)",
+      "Misti Kumra Fali (Sweet Pumpkin Slice)",
+      "Badhakopi (Cabbage)"
+    ],
+    "cooking_method": [
+      "First of all wash the vegetables cut and boil them lightly.",
+      "Now give all the spices to the vegetables.",
+      "Heat the oil in a frying pan and fry the dried pepper and take down.",
+      "Now give the Bay Leaves and Mix Spice in oil and stir for one minute.",
+      "Now fry the onion brown and pour the oil in vegetable mix.",
+      "Cook it for 2-3 minutes and when the grave get thick take it down."
+    ],
+    "rating": 3.8,
+    "chef_id": 4
+  },
+  {
+    "id": 10,
+    "name": "MUTTON CURRY",
+    "ingredient": [
+      "Aarong Dairy Butter",
+      "Radhuni Garam Masala",
+      "Fresh Coriander (Dhonia) Powder",
+      "Roshun (Garlic Imported)",
+      "Kagozi Lebu (Kagozi Lemon)",
+      "Rupchanda Fortified Soyabean Oil"
+    ],
+    "cooking_method": [
+      "Firstly mix hot spices powder, coriander powder, chilli powder and ginger-garlic paste in a dish.",
+      "Now put a pressure cooker add butter and put it on the stove.",
+      "When the butter are melted, add onion, chilli, and meat then mix it well.",
+      "Now stir the mixture of spices in the flesh.",
+      "Cover the pressure cooker after adding salt, water and lemon juice in meat.",
+      "When the pressure cooker gets 5/6 whistles, take it down and serve hot."
+    ],
+    "rating": 5,
+    "chef_id": 3
+  },
+  {
+    "id": 11,
+    "name": "FISH CHACCHORI",
+    "ingredient": [
+      "Mola Fish Deshi",
+      "Lal Peyaj (Onion Red Imported)",
+      "Radhuni Chilli (Morich) Powder",
+      "Rupchanda Fortified Soyabean Oil",
+      "Coriander Leaves (Dhonia Pata)",
+      "ACI Pure Salt"
+    ],
+    "cooking_method": [
+      "First of all in a pan add green chilli and onion to the oil.",
+      "Mix all the spices with water in another bowl and pour it into the pan.",
+      "Now slowly add some more water and make a fried gravy.",
+      "When the spices are ready , pour the fish and mix them slightly again.d gravy.",
+      "When all the water becomes dry,pour the chopped coriander leaves and take down the pan.d gravy."
+    ],
+    "rating": 3.9,
+    "chef_id": 3
+  },
+  {
+    "id": 12,
+    "name": "HILSHA FISH ONION CURRY",
+    "ingredient": [
+      "Whole Hilsha Fish (Asto Ilish)",
+      "Lal Peyaj (Onion Red Imported)",
+      "Ada (Imported Ginger)",
+      "Roshun (Garlic Imported)",
+      "Red Tomato",
+      "Rupchanda Fortified Soyabean Oil"
+    ],
+    "cooking_method": [
+      "First, fry the fish after marinating with pinch of salt and turmeric.",
+      "Take another pan, put oil on it, add all spices and water then cook it.",
+      "Add pieces of tomato in spices and stir.",
+      "Add fried fishes in spices and stir softly.",
+      "Now add green chillies and pieces of tomato , give it a mix and cook in low flame.",
+      "When oil will start to separate , it is ready , serve it on a dish."
+    ],
+    "rating": 4,
+    "chef_id": 3
+  },
+  {
+    "id": 13,
+    "name": "OATS CHICKEN HALIM",
+    "ingredient": [
+      "Orkide Sunflower Oil",
+      "Deshi Peyaj (Local Onion)",
+      "Fresh Haleem Mix",
+      "Aarong Natural Moshur Dal",
+      "Quaker Oats Jar",
+      "Coriander Leaves (Dhonia Pata)"
+    ],
+    "cooking_method": [
+      "Put 2 tablespoon of Sunflower oil on a fry pan and hit it.",
+      "Put ½ cup onion in the hot oil.",
+      "When the onion turns a bit brown, mix Cloves, Bay leaves, Cardamom and Cinnamon.",
+      "Now add Chili Powder 1 teaSpoon, Turmeric powder ½ teaSpoon, Garlic Paste 1 teaSpoon and Ginger Paste 1 teaSpoon. Pour some water.",
+      "Now add chicken, Garam Masala Powder 1 teaSpoon, Coriander Powder 1 teaSpoon, Cumin powder ½ teaSpoon and ½ cup of water. Cover the fry pan for 10-15 minutes.",
+      "Now add Halim Mix Masala 1 teaSpoon, A mixture of 3 kinds of Dal ½ Cup, 1 cup of water and salt. Cover the fry pan again for a couple of minutes.",
+      "Add Oats ½ cup, green Chili 4-5 pcs, Coriander Leaves.",
+      "The Halim is ready now. You can serve it by adding friend onion and ginger if you like."
+    ],
+    "rating": 4,
+    "chef_id": 5
+  },
+  {
+    "id": 14,
+    "name": "TEHRI IN MUSTARD OIL",
+    "ingredient": [
+      "Bengal Meat Beef Bone",
+      "Aarong Dairy Low Fat Yogurt",
+      "Deshi Ada (Local Ginger)",
+      "Rupchanda Fortified Soyabean Oil",
+      "Fortune Biryani Special Basmati Rice",
+      "Radhuni Pure Mustard Oil"
+    ],
+    "cooking_method": [
+      "First, marinate all the ingredients with the meat and keep it for three to four hours.",
+      "Then wash the rice and soak it in water for half an hour.",
+      "Now heat the mustard and soybean oil together and fry the onion brown add the merinated meat mixture and cover it by adding some water.",
+      "Once the meat is cooked, sprinkle chopped raw peppers and powdered milk and cook for a little and take it down.",
+      "Now boil water in another pan with 7 cups of water and hot spices.",
+      "Cover the boiling water with rice, lemon juice, powdered milk, sugar and salt.When the rice is boiled, add chopped raw chilli and sauté for 20 minutes.",
+      "Then pour the cooked meat in boiled rice and mix it well.",
+      "keep it for 15 minutes in low heat and its ready to serve."
+    ],
+    "rating": 4.5,
+    "chef_id": 3
+  },
+  {
+    "id": 15,
+    "name": "LABRA",
+    "ingredient": [
+      "Potato Regular",
+      "Korola (Bitter Gourd)",
+      "Potol (Pointed Gourd)",
+      "Sobuj Gol Begun (Round Brinjals Green)",
+      "Kacha Pepe (Green Papaya)",
+      "Misti Kumra Fali (Sweet Pumpkin Slice)",
+      "Badhakopi (Cabbage)"
+    ],
+    "cooking_method": [
+      "First of all wash the vegetables cut and boil them lightly.",
+      "Now give all the spices to the vegetables.",
+      "Heat the oil in a frying pan and fry the dried pepper and take down.",
+      "Now give the Bay Leaves and Mix Spice in oil and stir for one minute.",
+      "Now fry the onion brown and pour the oil in vegetable mix.",
+      "Cook it for 2-3 minutes and when the grave get thick take it down."
+    ],
+    "rating": 3.8,
+    "chef_id": 5
+  },
+  {
+    "id": 16,
+    "name": "MUTTON CURRY",
+    "ingredient": [
+      "Aarong Dairy Butter",
+      "Radhuni Garam Masala",
+      "Fresh Coriander (Dhonia) Powder",
+      "Roshun (Garlic Imported)",
+      "Kagozi Lebu (Kagozi Lemon)",
+      "Rupchanda Fortified Soyabean Oil"
+    ],
+    "cooking_method": [
+      "Firstly mix hot spices powder, coriander powder, chilli powder and ginger-garlic paste in a dish.",
+      "Now put a pressure cooker add butter and put it on the stove.",
+      "When the butter are melted, add onion, chilli, and meat then mix it well.",
+      "Now stir the mixture of spices in the flesh.",
+      "Cover the pressure cooker after adding salt, water and lemon juice in meat.",
+      "When the pressure cooker gets 5/6 whistles, take it down and serve hot."
+    ],
+    "rating": 5,
+    "chef_id": 5
+  },
+  {
+    "id": 17,
+    "name": "FISH CHACCHORI",
+    "ingredient": [
+      "Mola Fish Deshi",
+      "Lal Peyaj (Onion Red Imported)",
+      "Radhuni Chilli (Morich) Powder",
+      "Rupchanda Fortified Soyabean Oil",
+      "Coriander Leaves (Dhonia Pata)",
+      "ACI Pure Salt"
+    ],
+    "cooking_method": [
+      "First of all in a pan add green chilli and onion to the oil.",
+      "Mix all the spices with water in another bowl and pour it into the pan.",
+      "Now slowly add some more water and make a fried gravy.",
+      "When the spices are ready , pour the fish and mix them slightly again.d gravy.",
+      "When all the water becomes dry,pour the chopped coriander leaves and take down the pan.d gravy."
+    ],
+    "rating": 3.9,
+    "chef_id": 6
+  },
+  {
+    "id": 18,
+    "name": "HILSHA FISH ONION CURRY",
+    "ingredient": [
+      "Whole Hilsha Fish (Asto Ilish)",
+      "Lal Peyaj (Onion Red Imported)",
+      "Ada (Imported Ginger)",
+      "Roshun (Garlic Imported)",
+      "Red Tomato",
+      "Rupchanda Fortified Soyabean Oil"
+    ],
+    "cooking_method": [
+      "First, fry the fish after marinating with pinch of salt and turmeric.",
+      "Take another pan, put oil on it, add all spices and water then cook it.",
+      "Add pieces of tomato in spices and stir.",
+      "Add fried fishes in spices and stir softly.",
+      "Now add green chillies and pieces of tomato , give it a mix and cook in low flame.",
+      "When oil will start to separate , it is ready , serve it on a dish."
+    ],
+    "rating": 4,
+    "chef_id": 6
+  },
+  {
+    "id": 19,
+    "name": "FISH CHACCHORI",
+    "ingredient": [
+      "Mola Fish Deshi",
+      "Lal Peyaj (Onion Red Imported)",
+      "Radhuni Chilli (Morich) Powder",
+      "Rupchanda Fortified Soyabean Oil",
+      "Coriander Leaves (Dhonia Pata)",
+      "ACI Pure Salt"
+    ],
+    "cooking_method": [
+      "First of all in a pan add green chilli and onion to the oil.",
+      "Mix all the spices with water in another bowl and pour it into the pan.",
+      "Now slowly add some more water and make a fried gravy.",
+      "When the spices are ready , pour the fish and mix them slightly again.d gravy.",
+      "When all the water becomes dry,pour the chopped coriander leaves and take down the pan.d gravy."
+    ],
+    "rating": 3.9,
+    "chef_id": 6
+  }
+]
